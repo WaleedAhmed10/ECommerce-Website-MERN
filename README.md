@@ -1,6 +1,6 @@
-# 🛒 Full-Stack E-Commerce Web Application (Amazon Clone)
+# 🛒 Full-Stack E-Commerce Web Application WE Open Ended Lab (Amazon Clone)
 
-A full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express, React, Node.js), featuring product browsing, cart management, JWT-based authentication, and an admin dashboard for managing products and orders.
+A full-stack e-commerce platform built with the **MERN stack** (MongoDB, Express, React, Node.js), featuring product browsing, cart management, JWT-based authentication, and an admin dashboard for managing products and orders,
 
 ---
 
