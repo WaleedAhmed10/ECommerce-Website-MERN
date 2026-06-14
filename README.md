@@ -88,8 +88,6 @@ npm run dev     # development (nodemon)
 npm start       # production
 ```
 
-Backend runs at: **http://localhost:5000**
-
 ### 2. Frontend Setup
 
 ```bash
@@ -97,21 +95,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-Frontend runs at: **http://localhost:5173**
-
----
-
-## 👤 Demo Credentials
-
-| Role     | Email               | Password     |
-|----------|---------------------|---------------|
-| Admin    | admin@amazon.com    | admin123      |
-| Customer | john@example.com    | customer123   |
-
-> ⚠️ Change or remove these demo accounts before deploying to a public environment.
-
----
 
 ## 📡 API Endpoints
 
